@@ -1,9 +1,7 @@
 ## Hi!!!, meu nome é Lucas Rodrigues! <img src="https://c.tenor.com/yIFG-IEbEVUAAAAi/running-inosuke-hashibara.gif" width="30" height="30" />
-
 <div align="center">
-  <a href="https://github.com/Lucas123zx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas123zx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
+  <a href="https://github.com/lucas123zx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas123zx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas123zx&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
   <div style="display: inline_block"><br>
