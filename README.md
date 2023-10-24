@@ -1,4 +1,4 @@
-## Hi!!!, meu nome é Lucas Rodrigues! <img src="https://c.tenor.com/yIFG-IEbEVUAAAAi/running-inosuke-hashibara.gif" width="30" height="30" />
+## Hi!!!, meu nome é Lucas Rodrigues! <img src=["https://c.tenor.com/yIFG-IEbEVUAAAAi/running-inosuke-hashibara.gif](https://c.tenor.com/yIFG-IEbEVUAAAAi/running-inosuke-hashibara.gif)" width="30" height="30" />
 
 <div align="center">
   <a href="https://github.com/Lucas123zx">
