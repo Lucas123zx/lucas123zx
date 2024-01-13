@@ -11,8 +11,8 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" 
-      src="https://i.pinimg.com/564x/0d/d7/28/0dd728edb51c44086b41516b473c1ed7.jpg">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/0d/d7/28/0dd728edb51c44086b41516b473c1ed7.jpg">
 </div>
   
    ##
